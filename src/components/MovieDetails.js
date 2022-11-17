@@ -1,7 +1,7 @@
 function MovieDetails({ title, genre, rating, runtime, year, fullDescription }) {
   return (
     <div>
-      <h1>Details</h1>
+      <h1>Details - </h1>
       <span>Title: {title}</span>
       <br />
       <span>Rating: {rating} out of 10</span>
